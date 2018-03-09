@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">android_lab2</string>
+    <string name="author">Tobiasz Wróbel</string>
+    <string name="type_here">Type here</string>
+    <string name="button1_text">Stefan</string>
+    <string name="button2_text">Edward</string>
+    <string name="toast_button">Toast</string>
+    <string name="radio1">Zmień kolor</string>
+    <string name="show">Pokaż obrazek</string>
+    <string name="back_button">Powrót</string>
+    <string name="duck_image">Duck image</string>
+    <string name="north">North</string>
+    <string name="west">West</string>
+    <string name="east">East</string>
+    <string name="south">South</string>
 </resources>
